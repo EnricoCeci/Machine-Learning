@@ -101,10 +101,11 @@ The project includes the following stages:
 ## Project Structure
 
 ```text
-insurance-cross-selling/
+1.Classification_Model_Cross_Selling/
 │
 ├── README.md
-└── classification_model_cross_selling.py
+├── .gitignore
+└── Classification_model_cross_selling.ipynb
 ```
 
 ---
