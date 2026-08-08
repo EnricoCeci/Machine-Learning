@@ -135,7 +135,7 @@ The project includes the following stages:
 ```text
 credit-scoring/
 │
-├── gitignore
+├── .gitignore
 ├── README.md
 └── Credit_Scoring_Model_EN.ipynb
 ```
