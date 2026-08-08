@@ -1,4 +1,4 @@
-# Credit Scoring Model
+# Random forest credit scoring
 
 ---
 
@@ -135,6 +135,7 @@ The project includes the following stages:
 ```text
 credit-scoring/
 │
+├── gitignore
 ├── README.md
 └── Credit_Scoring_Model_EN.ipynb
 ```
