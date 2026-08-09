@@ -76,7 +76,7 @@ Target variable:
 
 The dataset used in this project was provided by ProfessionAI and is available at: 
 
-[https://proai-datasets.s3.eu-west-3.amazonaws.com/insurance_cross_sell.csv]
+[https://proai-datasets.s3.eu-west-3.amazonaws.com/insurance_cross_sell.csv)
 
 ---
 
