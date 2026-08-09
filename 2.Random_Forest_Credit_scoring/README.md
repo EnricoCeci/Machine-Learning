@@ -92,6 +92,10 @@ The target variable is strongly imbalanced:
 - approximately **91.2%** of customers belong to class 0;
 - approximately **8.8%** belong to class 1.
 
+The dataset used in this project was provided by ProfessionAI and is available at:
+
+[Credit Scoring Dataset](https://proai-datasets.s3.eu-west-3.amazonaws.com/credit_scoring.csv)
+
 ---
 
 ## Methodology
