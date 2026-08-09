@@ -368,7 +368,7 @@ face-detection/
 │
 ├── .gitignore
 ├── README.md
-└── Face_Detection_Digital_Cameras_EN.ipynb
+└── Face_Detection.ipynb
 ```
 
 ---
@@ -482,7 +482,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn scikit-image kagglehub
 Open the notebook in Jupyter Notebook, JupyterLab or Google Colab:
 
 ```text
-Face_Detection_Digital_Cameras_EN.ipynb
+Face_Detection.ipynb
 ```
 
 The project uses Google Drive for some image datasets and therefore the corresponding paths must be updated according to the user's directory structure.
