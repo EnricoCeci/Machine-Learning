@@ -74,6 +74,10 @@ Target variable:
 - **Response = 1** → Customer accepted the cross-selling offer.
 - **Response = 0** → Customer rejected the offer.
 
+The dataset used in this project was provided by ProfessionAI and is available at: 
+
+[https://proai-datasets.s3.eu-west-3.amazonaws.com/insurance_cross_sell.csv]
+
 ---
 
 ## Methodology
