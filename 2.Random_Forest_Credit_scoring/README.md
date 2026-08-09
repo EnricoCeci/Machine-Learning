@@ -141,7 +141,7 @@ credit-scoring/
 │
 ├── .gitignore
 ├── README.md
-└── Credit_Scoring_Model_EN.ipynb
+└── Rando_forest_credit_scoring.ipynb
 ```
 
 ---
@@ -211,7 +211,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn graphviz
 Open the notebook in Jupyter Notebook, JupyterLab or Google Colab:
 
 ```text
-Credit_Scoring_Model_EN.ipynb
+Credit_Scoring_Model.ipynb
 ```
 
 Make sure that the `credit_scoring.csv` dataset is available and update the dataset path in the import cell if necessary.
