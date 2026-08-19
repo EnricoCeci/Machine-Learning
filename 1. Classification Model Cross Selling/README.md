@@ -1,4 +1,4 @@
-# Insurance Cross-Selling Prediction
+# Classification Model - Insurance Cross-Selling Prediction
 
 ---
 
