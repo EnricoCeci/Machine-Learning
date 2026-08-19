@@ -1,4 +1,4 @@
-# Classification Model - Creditworthiness Predition
+# Classification Model - Creditworthiness Prediction
 ---
 
 ## Overview
