@@ -1,5 +1,4 @@
-# Random forest credit scoring
-
+# Classification Model - Creditworthiness Predition
 ---
 
 ## Overview
